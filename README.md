@@ -9,6 +9,7 @@
 ---
 
 ## 💫 About Me
+
 - 🎓 B.Tech Data Science Student  
 - 📊 Passionate about Data Analytics & Business Intelligence  
 - 🌱 Currently learning **Power BI, SQL, Tableau & Data Visualization**  
@@ -20,6 +21,7 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://github.com/salmanahmad34" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
@@ -33,9 +35,6 @@
 ---
 
 ## 💻 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql&perline=8"/>
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -55,20 +54,23 @@
 
 ## 🚀 Featured Project
 
-### 🚖 OLA Power BI Dashboard
+# 🚖 OLA Power BI Dashboard
+
 🔗 Repository:  
-https://github.com/salmanahmad34/ola
+[Click Here](https://github.com/salmanahmad34/ola)
 
 ### 📌 Project Highlights
-- Interactive Power BI Dashboard
-- Booking Trend Analysis
-- Revenue Insights
-- Ride Cancellation Analysis
-- Customer & Driver Ratings
-- KPI-Based Business Reporting
-- Interactive Filters & Slicers
+
+- Interactive Power BI Dashboard  
+- Booking Trend Analysis  
+- Revenue Insights  
+- Ride Cancellation Analysis  
+- Customer & Driver Ratings  
+- KPI-Based Business Reporting  
+- Interactive Filters & Slicers  
 
 ### 🛠 Tools Used
+
 - Power BI  
 - SQL  
 - Data Cleaning  
@@ -77,6 +79,7 @@ https://github.com/salmanahmad34/ola
 ---
 
 ## 📜 Certifications
+
 - Cloud AI: From Basics to Build – PW Skills  
 - Basics of Data Analytics – PW Skills  
 - Data Analytics Job Simulation – Deloitte (Forage)  
@@ -100,6 +103,7 @@ https://github.com/salmanahmad34/ola
 ---
 
 ## 🎯 Goals
+
 - Become a skilled Data Analyst  
 - Build impactful dashboard projects  
 - Learn advanced SQL & Power BI  
