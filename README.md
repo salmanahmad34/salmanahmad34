@@ -1,38 +1,32 @@
+```md
 <h1 align="center">Hi 👋, I'm Salman Ahmad</h1>
-<h3 align="center">A Passionate Data Scientist</h3>
+<h3 align="center">Aspiring Data Analyst | Power BI Enthusiast | Data Science Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarav12e&label=Profile%20views&color=0e75b6&style=flat" alt="aarav12e" />
+  <img src="https://komarev.com/ghpvc/?username=salmanahmad34&label=Profile%20views&color=0e75b6&style=flat" alt="salmanahmad34" />
 </p>
 
 ---
 
 ## 💫 About Me
-- 🌱 Currently learning **Data Science**
-- 👯 Looking to collaborate on **GitHub**
-- 📝 I write articles at ****
-- 💬 Ask me about **Data Modeling**
-- 📫 Reach me at ****
-
+- 🎓 B.Tech Data Science Student  
+- 📊 Passionate about Data Analytics & Business Intelligence  
+- 🌱 Currently learning **Power BI, SQL, Tableau & Data Visualization**  
+- 🚀 Building real-world dashboard projects using Power BI  
+- 💬 Ask me about **Power BI, SQL, Data Cleaning & Visualization**  
+- 📫 Reach me at **ahmadsalman9939@gmail.com**  
+- 📍 Azamgarh, Uttar Pradesh, India  
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 <p align="left">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/salmanahmad34" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?logo=X&logoColor=white"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white"/>
-  </a>
-  <a href="">
+
+  <a href="mailto:ahmadsalman9939@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="28"/>
   </a>
 </p>
 
@@ -40,43 +34,80 @@
 
 ## 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,js,ts,python,kotlin,html,css,nodejs,nextjs,firebase,vercel,mysql,figma,anaconda&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql&perline=8"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Data%20Visualization-0A66C2?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Data%20Cleaning-FF6F00?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
+
+---
+
+## 🚀 Featured Project
+
+### 🚖 OLA Power BI Dashboard
+🔗 Repository:  
+https://github.com/salmanahmad34/ola
+
+### 📌 Project Highlights
+- Interactive Power BI Dashboard
+- Booking Trend Analysis
+- Revenue Insights
+- Ride Cancellation Analysis
+- Customer & Driver Ratings
+- KPI-Based Business Reporting
+- Interactive Filters & Slicers
+
+### 🛠 Tools Used
+- Power BI  
+- SQL  
+- Data Cleaning  
+- Data Visualization  
+
+---
+
+## 📜 Certifications
+- Cloud AI: From Basics to Build – PW Skills  
+- Basics of Data Analytics – PW Skills  
+- Data Analytics Job Simulation – Deloitte (Forage)  
 
 ---
 
 ## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aarav12e&show_icons=true&theme=dark&hide_border=false"/>
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=aarav12e&theme=dark&hide_border=false"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarav12e&layout=compact&theme=dark&hide_border=false"/>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanahmad34&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanahmad34&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanahmad34&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🎯 Goals
+- Become a skilled Data Analyst  
+- Build impactful dashboard projects  
+- Learn advanced SQL & Power BI  
+- Contribute to open-source analytics projects  
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aarav12e&icon=0&color=0"/>
+  ⭐ If you like my projects, feel free to star the repositories!
 </p>
+```
