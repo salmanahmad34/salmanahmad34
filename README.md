@@ -1,117 +1,27 @@
-```md
 <h1 align="center">Hi 👋, I'm Salman Ahmad</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI Enthusiast | Data Science Student</h3>
+<h3 align="center">Turning Data into Meaningful Insights</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanahmad34&label=Profile%20views&color=0e75b6&style=flat" alt="salmanahmad34" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanahmad34&label=Profile%20views&color=0e75b6&style=flat" alt="salmanahmad34" /> </p>
 
----
+- 🔭 I’m currently working on [OLA Power BI Dashboard](https://github.com/salmanahmad34/ola)
 
-## 💫 About Me
+- 🌱 I’m currently learning **Power BI, SQL, Python, Data Visualization, and Business Intelligence**
 
-- 🎓 B.Tech Data Science Student  
-- 📊 Passionate about Data Analytics & Business Intelligence  
-- 🌱 Currently learning **Power BI, SQL, Tableau & Data Visualization**  
-- 🚀 Building real-world dashboard projects using Power BI  
-- 💬 Ask me about **Power BI, SQL, Data Cleaning & Visualization**  
-- 📫 Reach me at **ahmadsalman9939@gmail.com**  
-- 📍 Azamgarh, Uttar Pradesh, India  
+- 💬 Ask me about **💬 Ask me about Power BI, SQL, Data Analytics, Dashboard Development, and Data Visualization**
 
----
+- 📫 How to reach me **ahmadsalman9939@gmail.com**
 
-## 🌐 Connect With Me
+- 📄 Know about my experiences [https://drive.google.com/file/d/1M_iyq3DG09GrVdWChrtaB_U08BXJh85O/view?usp=sharing](https://drive.google.com/file/d/1M_iyq3DG09GrVdWChrtaB_U08BXJh85O/view?usp=sharing)
 
+- ⚡ Fun fact **I enjoy turning raw data into interactive dashboards and meaningful business insights**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/salmanahmad34" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  </a>
-
-  <a href="mailto:ahmadsalman9939@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/salman-ahmad-72478229a/?skipredirect=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salman-ahmad-72478229a/?skipredirect=true" height="30" width="40" /></a>
+<a href="https://instagram.com/nxzz_salman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nxzz_salman" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 💻 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Data%20Visualization-0A66C2?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/Data%20Cleaning-FF6F00?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Project
-
-# 🚖 OLA Power BI Dashboard
-
-🔗 Repository:  
-[Click Here](https://github.com/salmanahmad34/ola)
-
-### 📌 Project Highlights
-
-- Interactive Power BI Dashboard  
-- Booking Trend Analysis  
-- Revenue Insights  
-- Ride Cancellation Analysis  
-- Customer & Driver Ratings  
-- KPI-Based Business Reporting  
-- Interactive Filters & Slicers  
-
-### 🛠 Tools Used
-
-- Power BI  
-- SQL  
-- Data Cleaning  
-- Data Visualization  
-
----
-
-## 📜 Certifications
-
-- Cloud AI: From Basics to Build – PW Skills  
-- Basics of Data Analytics – PW Skills  
-- Data Analytics Job Simulation – Deloitte (Forage)  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanahmad34&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanahmad34&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanahmad34&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🎯 Goals
-
-- Become a skilled Data Analyst  
-- Build impactful dashboard projects  
-- Learn advanced SQL & Power BI  
-- Contribute to open-source analytics projects  
-
----
-
-<p align="center">
-  ⭐ If you like my projects, feel free to star the repositories!
-</p>
-```
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanahmad34&show_icons=true&locale=en&layout=compact" alt="salmanahmad34" /></p>
